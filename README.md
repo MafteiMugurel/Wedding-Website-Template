@@ -1,1 +1,1 @@
-# Weeding-Website-Template
+# Wedding-Website-Template
